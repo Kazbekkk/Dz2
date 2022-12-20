@@ -1,5 +1,5 @@
 ﻿int RandomNum = new Random().Next(10, 150); // Задаем диапазон от 10 до 9999
-Console.WriteLine($"Рандомное число от 10 до 9999 будет {RandomNum}");
+Console.WriteLine($"Рандомное число от 10 до 150 будет {RandomNum}");
 if (RandomNum < 100)
 {
     Console.WriteLine($"В {RandomNum} нет 3-го числа");
