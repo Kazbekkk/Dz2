@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Казбек\\Desktop\\GeekBrains\\C#\\Dz2\\Example_3\\Example_3.csproj": {}
+    "C:\\Users\\Казбек\\Desktop\\GeekBrains\\C#\\Dz2\\Example_10\\Example_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Казбек\\Desktop\\GeekBrains\\C#\\Dz2\\Example_3\\Example_3.csproj": {
+    "C:\\Users\\Казбек\\Desktop\\GeekBrains\\C#\\Dz2\\Example_10\\Example_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Казбек\\Desktop\\GeekBrains\\C#\\Dz2\\Example_3\\Example_3.csproj",
+        "projectUniqueName": "C:\\Users\\Казбек\\Desktop\\GeekBrains\\C#\\Dz2\\Example_10\\Example_3.csproj",
         "projectName": "Example_3",
-        "projectPath": "C:\\Users\\Казбек\\Desktop\\GeekBrains\\C#\\Dz2\\Example_3\\Example_3.csproj",
+        "projectPath": "C:\\Users\\Казбек\\Desktop\\GeekBrains\\C#\\Dz2\\Example_10\\Example_3.csproj",
         "packagesPath": "C:\\Users\\Казбек\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Казбек\\Desktop\\GeekBrains\\C#\\Dz2\\Example_3\\obj\\",
+        "outputPath": "C:\\Users\\Казбек\\Desktop\\GeekBrains\\C#\\Dz2\\Example_10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Казбек\\AppData\\Roaming\\NuGet\\NuGet.Config"
