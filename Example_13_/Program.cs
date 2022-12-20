@@ -1,4 +1,4 @@
-﻿int RandomNum = new Random().Next(-150, 150); // Задаем диапазон от -150 до 150
+﻿int RandomNum = new Random().Next(-150, 151); // Задаем диапазон от -150 до 150
 Console.WriteLine($"Рандомное число от -150 до 150 будет {RandomNum}");
 if (RandomNum < 0) // Проверка на отрицательное число
 {
