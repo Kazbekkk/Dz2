@@ -1,6 +1,6 @@
 ﻿int RandomNum = new Random().Next(-100, 101); // Задаем диапазон от -100 до 100
 Console.WriteLine($"Рандомное число от 100 до 1000 будет {RandomNum}");
-if (RandomNum < 0)
+if (RandomNum < 0) // Проверка на отрицательное число 
 {
     if (RandomNum > -10)
     {
